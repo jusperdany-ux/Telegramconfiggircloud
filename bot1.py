@@ -7,7 +7,7 @@ from aiogram.filters import Command
 import aiohttp
 
 # ========= TOKEN از Environment =========
-BOT_TOKEN = os.getenv("8807849202:AAFks5IhzGUj_0Ee_jgQIvx_nWPVW4U_hWE")
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 BASE_URL = "https://api.cloudflare.com/client/v4"
 
